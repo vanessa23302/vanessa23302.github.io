@@ -2,16 +2,26 @@
 
 ## Overview
 
-This artifact comes from the Contact Service project originally developed in CS 320 Software Testing, Automation, and Quality Assurance. The application manages contact records using Java and includes validation logic and unit testing.
+This artifact comes from the Contact Service project originally developed in CS 320 Software Testing, Automation, and Quality Assurance. The application manages contact records using Java and includes validation logic and automated unit testing.
 
 ## Enhancement
 
-The enhancement focuses on improving how contact data is stored and retrieved by using a HashMap data structure. In this implementation, the contact ID is used as the key and the Contact object is stored as the value.
+The enhancement demonstrates the use of a HashMap data structure to efficiently store and retrieve contact information. In this implementation, the contact ID acts as the key and the Contact object is stored as the value.
 
-Using a HashMap allows the program to quickly retrieve, update, or delete contacts without searching through a list. This improves efficiency and demonstrates the importance of choosing the correct data structure when designing software systems.
+Using a HashMap improves efficiency because contacts can be retrieved, updated, or deleted directly using their unique identifier rather than searching through a list.
+
+## Skills Demonstrated
+
+This artifact demonstrates the following computer science skills:
+
+- Data structures using HashMap
+- Efficient data retrieval
+- Java programming
+- Object-oriented design
+- Unit testing
 
 ## Narrative
 
-The narrative document explains the purpose of the artifact, the enhancements made to the data structure implementation, and the skills demonstrated.
+The narrative explaining the enhancement can be found here:
 
 [View the Algorithms Artifact Narrative](narrative/algorithms-artifact-narrative.docx)
