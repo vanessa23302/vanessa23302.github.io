@@ -14,6 +14,7 @@ The enhanced version improves validation logic and ensures that contact informat
 ### Narrative
 The narrative explains the purpose of the artifact, the enhancements made, and the skills demonstrated in software design and engineering.
 
+[View the Software Design Narrative](narrative/software-design-artifact-narrative.docx)
 ## Skills Demonstrated
 - Object-oriented programming
 - Data validation
