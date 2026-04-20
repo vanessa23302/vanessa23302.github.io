@@ -46,8 +46,8 @@ These improvements demonstrate how backend services can efficiently manage and d
 
 ## Narrative
 
-The narrative document explains the purpose of this artifact, the enhancements that were made, and the skills demonstrated during the development process.
+The narrative document explains the purpose of this artifact, the enhancements implemented, and the skills demonstrated.
 
 See the narrative here:
 
-[narrative/Sanchez_Vanessa_Enhancement3_Database.docx](narrative/Sanchez_Vanessa_Enhancement3_Database.docx)
+[narrative/database-artifact narrative.docx](narrative/database-artifact%20narrative.docx)
