@@ -46,7 +46,7 @@ These improvements demonstrate how backend services can efficiently manage and d
 
 ## Narrative
 
-The narrative document explains the purpose of this artifact, the enhancements implemented, and the skills demonstrated.
+The narrative document explains the purpose of this artifact, the enhancements implemented, and the skills demonstrated during development.
 
 See the narrative here:
 
